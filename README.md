@@ -136,8 +136,10 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 * [The Virtual Life of ENIAC Simulating the Operation of the First Electronic Computer](http://zuse-z1.zib.de/simulations/eniac/doc/virtualENIAC.pdf)
 
 ## Tips and tricks
+This is where I will include tips and tricks
 
 ## Instalation
+This is where the installation guides will go
 
 ## License
 
