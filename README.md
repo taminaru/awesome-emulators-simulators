@@ -7,9 +7,8 @@ Awesome Emulators & Simulators
 Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https://twitter.com/emmecilab).
 
 
-## Contents
+## Table of contents
 
-- [Contents](#contents)
 - [PCs](#pcs)
 - [Mini Computers](#mini-computers)
 - [Home Computers](#home-computers)
@@ -146,10 +145,4 @@ This is where the installation guides will go.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contributing
-
-Please, read the [Contribution Guidelines](https://github.com/mcicolella/awesome-emulators-simulators/blob/master/contributing.md) before submitting your suggestion.
-
-Feel free to [open an issue](https://github.com/mcicolella/awesome-emulators-simulators/issues) or [create a pull request](https://github.com/mcicolella/awesome-emulators-simulators/pulls) with your additions.
-
-:star2: Thank you!
-
+Feel free to contribute or improve this repository as you please, any help is appreciated!
