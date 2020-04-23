@@ -22,6 +22,8 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 - [Networks](#networks)
 - [Various](#various)
 - [Resources](#resources)
+- [Tips and tricks](#tips-and-tricks)
+- [Installation](#installation)
 - [License](#license)
 - [Contributing](#contributing)
 
@@ -66,10 +68,12 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
 [Dolphin](https://dolphin-emu.org/)|Currently it is the only emulator that can emulate a console of the 7th generation|Emulator|5.0|Gamecube, Wii|Windows, Mac OS X, Linux|C++|GPLv2+|[Github](https://github.com/dolphin-emu/dolphin/)
-[OpenEmu](http://openemu.org/)|Partially based off Retroarch but with the aim of providing a Mac-like experience.|Emulator|2.0.3|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Mac OS X|Objective-C|BSD-3-Clause|[Github](https://github.com/OpenEmu/OpenEmu)
-[PCSX2](http://www.libretro.com/)|Playstation 2 emulator|Emulator|1.4.0|Playstation 2|Windows, Linux|C++|GNU GPL|[Github](https://github.com/PCSX2/pcsx2)
 [Project64](http://www.pj64-emu.com/)|N64 emulator|Emulator|2.3.2-202|Nintendo 64|Windows|C, C++|GPL GNUv2|[GitHub](https://github.com/project64/project64)
-[RPCS3](http://rpcs3.net)|Sony Playstation 3 emulator|Emulator|0.0.9|PS3|Linux, Mac OS X, BSD, Windows|C++|GPL GNUv2|[Github](https://github.com/rpcs3/rpcs3)
+[Mupen64](https://mupen64plus.org)|N64 emulator and plugins|Emulator|2.5.9|Nintendo 64|Linux, Mac OS X, BSD, Windows|C|GPL GNUv2|[Github](https://github.com/mupen64plus)
+[PCSX2](http://www.libretro.com/)|Playstation 2 emulator|Emulator|1.4.0|PS2|Windows, Linux|C++|GNU GPL|[Github](https://github.com/PCSX2/pcsx2)
+[PPSSPP](http://ppsspp.org)|Playstation Portable emulator|Emulator|1.9.3|PSP|Linux, Mac OS X, BSD, Windows|C/C++|GPLv2|[Github](https://github.com/hrydgard/ppsspp)
+[RPCS3](http://rpcs3.net)|Playstation 3 emulator|Emulator|0.0.9|PS3|Linux, Mac OS X, BSD, Windows|C++|GPLv2|[Github](https://github.com/rpcs3/rpcs3)
+[OpenEmu](http://openemu.org/)|Partially based off Retroarch but with the aim of providing a Mac-like experience.|Emulator|2.0.3|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Mac OS X|Objective-C|BSD-3-Clause|[Github](https://github.com/OpenEmu/OpenEmu)
 [RetroArch](http://www.libretro.com/)|An all-in-one emulator that is able to run games from pretty much every retro console out there|Emulator|1.3.6|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Windows, Mac OS X, Linux, mobile devices, RPI|C|GPLv3|[Github](https://github.com/libretro/RetroArch)
 
 ## CPUs
@@ -130,6 +134,10 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 * [Programma 101 Quick Guide](http://www.marcogaleotti.com/download/programma101%20quick%20guide%20english.pdf)
 * [Programma 101 User Guide](http://www.marcogaleotti.com/download/programma101%20manual%20english.pdf)
 * [The Virtual Life of ENIAC Simulating the Operation of the First Electronic Computer](http://zuse-z1.zib.de/simulations/eniac/doc/virtualENIAC.pdf)
+
+## Tips and tricks
+
+## Instalation
 
 ## License
 
