@@ -62,20 +62,20 @@ Awesome Emulators & Simulators
 
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
-[Dolphin](https://dolphin-emu.org/)|Nintendo Wii and Gamecube emulator|Emulator|5.0|Gamecube, Wii|Windows, Mac OS X, Linux|C++|GPLv2+|[Github](https://github.com/dolphin-emu/dolphin/)
-[Project64](http://www.pj64-emu.com/)|N64 emulator|Emulator|2.3.2-202|Nintendo 64|Windows|C, C++|GPL GNUv2|[GitHub](https://github.com/project64/project64)
-[Mupen64](https://mupen64plus.org)|N64 emulator and plugins|Emulator|2.5.9|Nintendo 64|Linux, Mac OS X, BSD, Windows|C|GPL GNUv2|[Github](https://github.com/mupen64plus)
+[Dolphin](https://dolphin-emu.org/)|Nintendo Wii and Gamecube emulator|Emulator|5.0|Gamecube, Wii|Linux, macOS, Windows|C++|GPLv2+|[Github](https://github.com/dolphin-emu/dolphin/)
+[Project64](http://www.pj64-emu.com/)|N64 emulator|Emulator|2.3.2-202|Nintendo 64|Windows|C, C++|GPLv2|[GitHub](https://github.com/project64/project64)
+[Mupen64](https://mupen64plus.org)|N64 emulator and plugins|Emulator|2.5.9|Nintendo 64|Linux, macOS, BSD, Windows|C|GPLv2|[Github](https://github.com/mupen64plus)
 [PCSX2](http://www.libretro.com/)|Playstation 2 emulator|Emulator|1.4.0|PS2|Windows, Linux|C++|GNU GPL|[Github](https://github.com/PCSX2/pcsx2)
-[PPSSPP](http://ppsspp.org)|Playstation Portable emulator|Emulator|1.9.3|PSP|Linux, Mac OS X, BSD, Windows|C/C++|GPLv2|[Github](https://github.com/hrydgard/ppsspp)
+[PPSSPP](http://ppsspp.org)|Playstation Portable emulator|Emulator|1.9.3|PSP|Linux, macOS, BSD, Windows|C/C++|GPLv2|[Github](https://github.com/hrydgard/ppsspp)
 [RPCS3](http://rpcs3.net)|Playstation 3 emulator|Emulator|0.0.9|PS3|Linux, Mac OS X, BSD, Windows|C++|GPLv2|[Github](https://github.com/rpcs3/rpcs3)
-[OpenEmu](http://openemu.org/)|Partially based off Retroarch but with the aim of providing a Mac-like experience.|Emulator|2.0.3|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Mac OS X|Objective-C|BSD-3-Clause|[Github](https://github.com/OpenEmu/OpenEmu)
+[OpenEmu](http://openemu.org/)|Partially based off Retroarch but with the aim of providing a mac-like experience.|Emulator|2.0.3|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Mac OS X|Objective-C|BSD-3-Clause|[Github](https://github.com/OpenEmu/OpenEmu)
 [RetroArch](http://www.libretro.com/)|An all-in-one emulator that is able to run games from pretty much every retro console out there|Emulator|1.3.6|Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc.|Windows, Mac OS X, Linux, mobile devices, RPI|C|GPLv3|[Github](https://github.com/libretro/RetroArch)
 
 ## CPUs
 
 |Name|Description|Category|Latest version|Emulated CPU(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|---------------|-------------------|----------|-------|-----------|
-[ARM-js](http://biged.github.io/arm-js/arm-js.html)|An ARM emulator|Emulator||ARMv7-A|Chrome, Firefox|Javascript||[GitHub](https://github.com/ozaki-r/arm-js)
+[ARM-js](http://biged.github.io/arm-js/arm-js.html)|An ARM emulator|Emulator||ARMv7-A|Web browser|Javascript||[GitHub](https://github.com/ozaki-r/arm-js)
 [Intel 4004](http://e4004.szyc.org/)|Intel 4004 emulator with assembler e disassembler|Emulator||Intel 4004|All platforms|Javascript||
 [Unicorn](https://www.unicorn-engine.org/)|Lightweight multi-platform, multi-architecture CPU emulator framework|Emulator|1.0.1|Arm, Arm64 (Armv8), M68K, Mips, Sparc, & X86 (include X86_64)|Windows, Mac OSX, Linux, BSD, Solaris|Pure C language with bindings for Crystal, Clojure, Visual Basic, Perl, Rust, Haskell, Ruby, Python, Java, Go, .NET, Delphi/Pascal & MSVC|GPL v2|[GitHub](https://github.com/unicorn-engine/unicorn) 
 
@@ -83,7 +83,7 @@ Awesome Emulators & Simulators
 
 |Name|Description|Category|Latest version|Emulated Micro(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|-----------------|-------------------|----------|-------|-----------|
-|[simavr](https://github.com/buserror/simavr)|A lean and mean Atmel AVR simulator|Simulator||Different type of ATMega and ATTIny|Linux, Mac OSX|C|GNU GPL|[GitHub](https://github.com/buserror/simavr)
+|[simavr](https://github.com/buserror/simavr)|A lean and mean Atmel AVR simulator|Simulator||Different type of ATMega and ATTIny|Linux, macOS|C|GNU GPL|[GitHub](https://github.com/buserror/simavr)
 
 
 ## Robotics
@@ -134,6 +134,8 @@ Awesome Emulators & Simulators
 This is where I will include tips and tricks for an asortment of stuff.
 
 ## Installation
+
+### Home computers
 
 ### Consoles
 placeholder
