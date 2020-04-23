@@ -4,8 +4,6 @@ Awesome Emulators & Simulators
 
 > A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
 
-Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https://twitter.com/emmecilab).
-
 
 ## Table of contents
 
@@ -23,7 +21,6 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 - [Resources](#resources)
 - [Tips and tricks](#tips-and-tricks)
 - [Installation](#installation)
-- [License](#license)
 - [Contributing](#contributing)
 
 ## PCs
@@ -52,7 +49,6 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 [VICE](http://vice-emu.sourceforge.net/)|VersatIle Commodore Emulator is a free and cross platform emulator for Commodore's 8-bit computers|Emulator|3.1|Commodore 64, C128, VIC-20, Plus/4, C64 Direct-to-TV (with its additional video modes),  all the PET models including the CBM-II |Microsoft Windows, OS X, Linux, MS-DOS, RISC OS, BeOS, QNX, OS/2, Solaris, SunOS, OpenServer, AmigaOS, Dingoo, Syllable Desktop, MiNT, MINIX 3|C|GNU GPLv2|[SourceForge](https://sourceforge.net/p/vice-emu/code/HEAD/tree/)
 [WinUAE](http://www.winuae.net/)|Windows porting of the UAE Amiga Emulator|Emulator| |Commodore Amiga| Windows|C++||[GitHub](http://github.com/tonioni/WinUAE)
 [UAE](http://www.fs-uae.net/)|The UAE Amiga Emulator|Emulator| |Commodore Amiga| Linux, Mac OS X, BSD|C++||[GitHub](http://github.com/frodesolheim/fs-uae)
-
 
 ## Mainframes
 
@@ -135,14 +131,12 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 * [The Virtual Life of ENIAC Simulating the Operation of the First Electronic Computer](http://zuse-z1.zib.de/simulations/eniac/doc/virtualENIAC.pdf)
 
 ## Tips and tricks
-This is where I will include tips and tricks.
+This is where I will include tips and tricks for an asortment of stuff.
 
 ## Instalation
-This is where the installation guides will go.
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+### Consoles
+placeholder
 
 ## Contributing
 Feel free to contribute or improve this repository as you please, any help is appreciated!
