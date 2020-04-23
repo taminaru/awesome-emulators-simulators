@@ -32,7 +32,7 @@ Awesome Emulators & Simulators
 
 ## PCs
 ### DOS
-* [DOSBox](https://www.dosbox.com/) - DOS-emulator that uses the SDL-library. [Source](http://source.dosbox.com/dosboxsvn.tgz)|
+* [DOSBox](https://www.dosbox.com/) - DOS-emulator that uses the SDL-library. [Source](http://source.dosbox.com/dosboxsvn.tgz)
 ### Digital Equipment
 * [PDP-8/E](http://www.bernhard-baehr.de/pdp8e/pdp8e.html) - An emulator for the Digital Equipment PDP-8/E minicomputer. [Download](http://www.bernhard-baehr.de/pdp8e/resources/pdp8e_simulator_2.0.2.dmg) 
 ### Altair
@@ -85,7 +85,7 @@ Awesome Emulators & Simulators
 * [Unicorn](https://www.unicorn-engine.org/) - Lightweight multi-platform, multi-architecture CPU emulator framework. [GitHub](https://github.com/unicorn-engine/unicorn) 
 
 ## Robotics
-* [Gazebo](http://gazebosim.org/) - Simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects. [Bitbucket](https://bitbucket.org/osrf/gazebo)|
+* [Gazebo](http://gazebosim.org/) - Simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects. [Bitbucket](https://bitbucket.org/osrf/gazebo)
 * [Robocode](http://robocode.sourceforge.net/) - A programming whith the goal being to develop a robot battle tank to battle against other tanks in Java or .NET. [GitHub](https://github.com/robo-code/robocode)
 * [V-REP](http://www.coppeliarobotics.com/) - Robot simulator, based on a distributed control architecture. [Copellia Robotics web page](http://www.coppeliarobotics.com/downloads.html)|
 
