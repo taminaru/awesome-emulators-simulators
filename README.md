@@ -133,7 +133,7 @@ Awesome Emulators & Simulators
 ## Tips and tricks
 This is where I will include tips and tricks for an asortment of stuff.
 
-## Instalation
+## Installation
 
 ### Consoles
 placeholder
