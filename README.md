@@ -67,7 +67,7 @@ Check out my [blog](https://www.emmecilab.net) and follow me on [Twitter](https:
 
 |Name|Description|Category|Latest version|Emulated system(s)|Running platform(s)|Written in|Licence|Source code|
 |----|-----------|--------|--------------|------------------|-------------------|----------|-------|-----------|
-[Dolphin](https://dolphin-emu.org/)|Currently it is the only emulator that can emulate a console of the 7th generation|Emulator|5.0|Gamecube, Wii|Windows, Mac OS X, Linux|C++|GPLv2+|[Github](https://github.com/dolphin-emu/dolphin/)
+[Dolphin](https://dolphin-emu.org/)|Nintendo Wii and Gamecube emulator|Emulator|5.0|Gamecube, Wii|Windows, Mac OS X, Linux|C++|GPLv2+|[Github](https://github.com/dolphin-emu/dolphin/)
 [Project64](http://www.pj64-emu.com/)|N64 emulator|Emulator|2.3.2-202|Nintendo 64|Windows|C, C++|GPL GNUv2|[GitHub](https://github.com/project64/project64)
 [Mupen64](https://mupen64plus.org)|N64 emulator and plugins|Emulator|2.5.9|Nintendo 64|Linux, Mac OS X, BSD, Windows|C|GPL GNUv2|[Github](https://github.com/mupen64plus)
 [PCSX2](http://www.libretro.com/)|Playstation 2 emulator|Emulator|1.4.0|PS2|Windows, Linux|C++|GNU GPL|[Github](https://github.com/PCSX2/pcsx2)
