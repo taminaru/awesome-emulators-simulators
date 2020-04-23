@@ -39,18 +39,18 @@ Awesome Emulators & Simulators
 * [Altair 8800](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/intro.php) - Part of the SIMH family of simulators. [Source](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/zip/altairz80source.zip)
 ### Apple
 * [Apple I](http://pom1.sourceforge.net/) - Apple I emulator. [Sourceforge](https://sourceforge.net/p/pom1/code/HEAD/tree/trunk/)
-* [Apple II](https://github.com/AppleWin/AppleWin/) - Apple II emulator
+* [Apple II](https://github.com/AppleWin/AppleWin/) - Apple II emulator.
 ### Commodore
 * [VICE](http://vice-emu.sourceforge.net/) - VersatIle Commodore Emulator is a cross platform emulator for Commodore's 8-bit computers. [SourceForge](https://sourceforge.net/p/vice-emu/code/HEAD/tree/)
 * [UAE](http://www.fs-uae.net/) - The UAE Amiga Emulator. [GitHub](http://github.com/frodesolheim/fs-uae)
 
 ## Mainframes
 ### EDSAC
-* [EDSAC](http://www.dcs.warwick.ac.uk/~edsac/) - EDSAC simulator
+* [EDSAC](http://www.dcs.warwick.ac.uk/~edsac/) - EDSAC simulator.
 ### Hercules
 * [Hercules](http://www.hercules-390.eu/) - OSS implementation of the mainframe System/370 and ESA/390 architectures, in addition to the latest 64-bit z/Architecture. [GitHub](https://github.com/rbowler/spinhawk)
 ### ASM
-* [z390 ASM](http://www.z390.org/) - The z390 portable mainframe macro assembler and emulator project
+* [z390 ASM](http://www.z390.org/) - The z390 portable mainframe macro assembler and emulator project.
 
 ## Consoles
 ### Nintendo
@@ -60,8 +60,8 @@ Awesome Emulators & Simulators
 * [ZSNES](https://zsnes.com) - SNES emulator written mostly in x86 assembly.
 * [Mupen64](https://mupen64plus.org) - N64 emulator and plugins. [Github](https://github.com/mupen64plus)
 * [Dolphin](https://dolphin-emu.org/) - Nintendo Wii and Gamecube emulator. [Github](https://github.com/dolphin-emu/dolphin/)
-* [DeSmuME]() - 
-* [Citra]() - 
+* [DeSmuME]() - Nintendo DS emulator.
+* [Citra](http://citra-emu.org) - Experimental Nintendo 3DS emulator. [Github](https://github.com/citra-emu/citra)
 ### Sony
 * [PCSX2](http://www.libretro.com/) - Playstation 2 emulator. [Github](https://github.com/PCSX2/pcsx2)
 * [PPSSPP](http://ppsspp.org) - Playstation Portable emulator. [Github](https://github.com/hrydgard/ppsspp)
@@ -70,7 +70,7 @@ Awesome Emulators & Simulators
 * [xqemu](http://xqemu.com) - Original Xbox emulator. [Github](https://github.com/xqemu/xqemu)
 * [xenia](https://github.com/xenia-project/xenia) - Xbox 360 emulator.  
 ### Sega
-* [Genesis-Plus-GX]() - Sega Genesis/Megadrive emulator with high accuracy. Runs on modest hardware.
+* [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) - Sega Genesis/Megadrive emulator with high accuracy. Runs on modest hardware.
 ### Atari
 * [stella](https://github.com/stella-emu/stella) - Atari 2600 VCS emulator.
 * [atari800](https://github.com/atari800/atari800) - Atari 8-bit computer lines and 5200 console emulator.
