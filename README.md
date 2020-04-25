@@ -28,35 +28,41 @@ Awesome Emulators & Simulators
 - [Various](#various)
 - [Additional information](#additional-information)
 - [Installation](#installation)
+    - [PCs](#pcs1)
+    - [DOS](#dos1)
+    - [Digital Equipment](#digital-equipment1)
+    - [Altair](#altair1)
+    - [Apple](#apple1)
+    - [Commodore](#commodore1)
 - [Contributing](#contributing)
 
 ## PCs
 ### DOS
 * [DOSBox](https://www.dosbox.com/) - DOS-emulator that uses the SDL-library. [Source](http://source.dosbox.com/dosboxsvn.tgz)|
 ### Digital Equipment
-* [PDP-8/E](http://www.bernhard-baehr.de/pdp8e/pdp8e.html) - An emulator for the Digital Equipment PDP-8/E minicomputer. [Download](http://www.bernhard-baehr.de/pdp8e/resources/pdp8e_simulator_2.0.2.dmg) 
+* [PDP-8/E](http://www.bernhard-baehr.de/pdp8e/pdp8e.html) - A simulator for the Digital Equipment PDP-8/E minicomputer. [Download](http://www.bernhard-baehr.de/pdp8e/resources/pdp8e_simulator_2.0.2.dmg) 
 ### Altair
 * [Altair 8800](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/intro.php) - Part of the SIMH family of simulators. [Source](http://classiccmp.org/cpmarchives/cpm/mirrors/www.schorn.ch/cpm/zip/altairz80source.zip)
 ### Apple
 * [Apple I](http://pom1.sourceforge.net/) - Apple I emulator. [Sourceforge](https://sourceforge.net/p/pom1/code/HEAD/tree/trunk/)
-* [Apple II](https://github.com/AppleWin/AppleWin/) - Apple II emulator
+* [Apple II](https://github.com/AppleWin/AppleWin/) - Apple II emulator.
 ### Commodore
 * [VICE](http://vice-emu.sourceforge.net/) - VersatIle Commodore Emulator is a cross platform emulator for Commodore's 8-bit computers. [SourceForge](https://sourceforge.net/p/vice-emu/code/HEAD/tree/)
 * [UAE](http://www.fs-uae.net/) - The UAE Amiga Emulator. [GitHub](http://github.com/frodesolheim/fs-uae)
 
 ## Mainframes
 ### EDSAC
-* [EDSAC](http://www.dcs.warwick.ac.uk/~edsac/) - EDSAC simulator
+* [EDSAC](http://www.dcs.warwick.ac.uk/~edsac/) - EDSAC simulator.
 ### Hercules
 * [Hercules](http://www.hercules-390.eu/) - OSS implementation of the mainframe System/370 and ESA/390 architectures, in addition to the latest 64-bit z/Architecture. [GitHub](https://github.com/rbowler/spinhawk)
 ### ASM
-* [z390 ASM](http://www.z390.org/) - The z390 portable mainframe macro assembler and emulator project
+* [z390 ASM](http://www.z390.org/) - The z390 portable mainframe macro assembler and emulator project.
 
 ## Consoles
 ### Nintendo
 * [Nestopia]() - NES emulator desinged to emulate hardware as accurate as possible.
 * [FCEUX](https://fceux.com) - NES, Famicom and Famicom Disk System emulator. 
-* [snes9x](https://snes9x.com) - Portable SNES emulator.
+* [snes9x](http://snes9x.com) - Portable SNES emulator.
 * [ZSNES](https://zsnes.com) - SNES emulator written mostly in x86 assembly.
 * [Mupen64](https://mupen64plus.org) - N64 emulator and plugins. [Github](https://github.com/mupen64plus)
 * [Dolphin](https://dolphin-emu.org/) - Nintendo Wii and Gamecube emulator. [Github](https://github.com/dolphin-emu/dolphin/)
@@ -99,12 +105,12 @@ Awesome Emulators & Simulators
 * [Cloonix](http://clownix.net/) - Network simulator provides a relatively easy-to-use graphical user interface. [GitHub](https://github.com/clownix/cloonix)
 
 ## Various
-[Cardpunch](http://www.kloth.net/services/cardpunch.php) - Cardpunch emulator to create a PNG or JPEG image of a punched card.
-[Enigma Machine Emulator](http://enigma.louisedade.co.uk/) - Emulating Navy M3 and M4 Enigma Machines. [Source code](http://enigma.louisedade.co.uk/jssource.html)
-[MovSim](http://www.movsim.org) - Multi-model open-source vehicular-traffic simulator. [GitHub](https://github.com/movsim/movsim)
-[Traffic Simulator](http://www.traffic-simulation.de/) - Traffic simulator in HTML. [GitHub](https://github.com/movsim/traffic-simulation-de)
-[Turing Machine Simulator](http://morphett.info/turing/turing.html) - Turing machine simulator. [GitHub](https://github.com/awmorp/jsturing)
-[Virtual Apollo Guidance Computer](http://www.ibiblio.org/apollo/) - Apollo Guidance Computer simulator. [GitHub](https://github.com/virtualagc/virtualagc)
+* [Cardpunch](http://www.kloth.net/services/cardpunch.php) - Cardpunch emulator to create a PNG/JPEG image of a punched card.
+* [Enigma Machine Emulator](http://enigma.louisedade.co.uk/) - Emulating Navy M3 and M4 Enigma Machines. [Source code](http://enigma.louisedade.co.uk/jssource.html)
+* [MovSim](http://www.movsim.org) - Multi-model open-source vehicular-traffic simulator. [GitHub](https://github.com/movsim/movsim)
+* [Traffic Simulator](http://www.traffic-simulation.de/) - Traffic simulator in HTML. [GitHub](https://github.com/movsim/traffic-simulation-de)
+* [Turing Machine Simulator](http://morphett.info/turing/turing.html) - Turing machine simulator. [GitHub](https://github.com/awmorp/jsturing)
+* [Virtual Apollo Guidance Computer](http://www.ibiblio.org/apollo/) - Apollo Guidance Computer simulator. [GitHub](https://github.com/virtualagc/virtualagc)
 
 ## Additional information 
 A lot of additional information can be found in here:
@@ -114,7 +120,25 @@ A lot of additional information can be found in here:
 * [The Virtual Life of ENIAC Simulating the Operation of the First Electronic Computer](http://zuse-z1.zib.de/simulations/eniac/doc/virtualENIAC.pdf)
 
 ## Installation
-placeholder
+### PCs
+#### DOS
+Download DOSBox from the [official website](https://dosbox.com/download.php?main=1), and then run it.
+Alternatively, you can download DOSBox using your distribution's package manager.
+
+Example with [Debian GNU/Linux](https://debian.org):
+> $ sudo apt-get install dosbox
+#### Digital Equipment
+Follow the guide [here](https://bernhard-baerh.de/pdp8e/quickstart.html).
+#### Altair
+As of now there are no guides on how to install the Altair8800 emulator.
+#### Apple
+* Apple I
+Download it from [sourceforge](pom1.sourceforge.net/?page=downloads), and then run it.
+Alternatively, Arch Linux users can use the following [AUR Package](https://aur.archlinux.org/packages/pom1/).
+* Apple II 
+Follow the compiling guide [here](https://github.com/AppleWin/AppleWin/blob/master/docs/compiling.txt).
+#### Commodore
+Download VICE from the [official website](https://vice-emu.sourceforge.io/index.html/#download).
 
 ## Contributing
 Feel free to contribute or improve this repository as you please, any help is appreciated!
