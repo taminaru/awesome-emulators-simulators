@@ -30,15 +30,15 @@ Awesome Emulators & Simulators
 - [Installation](#installation)
     - [PCs](#pcs1)
     - [DOS](#dos1)
-    - [Digital Equipment](#digital-equipment1)
-    - [Altair](#altair1)
-    - [Apple](#apple1)
-    - [Commodore](#commodore1)
+    - [Digital Equipment](#digital-equipment-1)
+    - [Altair](#altair-1)
+    - [Apple](#apple-1)
+    - [Commodore](#commodore-1)
 - [Contributing](#contributing)
 
 ## PCs
 ### DOS
-* [DOSBox](https://www.dosbox.com/) - DOS-emulator that uses the SDL-library. [Source](http://source.dosbox.com/dosboxsvn.tgz)|
+* [DOSBox-x](https://dosbox-x.com) - Fork of the DOSBox DOS emulator with better documentation and more features. [Source](https://github.com/joncampbell123/dosbox-x).
 ### Digital Equipment
 * [PDP-8/E](http://www.bernhard-baehr.de/pdp8e/pdp8e.html) - A simulator for the Digital Equipment PDP-8/E minicomputer. [Download](http://www.bernhard-baehr.de/pdp8e/resources/pdp8e_simulator_2.0.2.dmg) 
 ### Altair
@@ -122,20 +122,18 @@ A lot of additional information can be found in here:
 ## Installation
 ### PCs
 #### DOS
-Download DOSBox from the [official website](https://dosbox.com/download.php?main=1), and then run it.
-Alternatively, you can download DOSBox using your distribution's package manager.
-
-Example with [Debian GNU/Linux](https://debian.org):
-> $ sudo apt-get install dosbox
+Read the DOSBox-x guide from the [github page](https://github.com/joncampbell123/dosbox-x)'s README.
 #### Digital Equipment
 Follow the guide [here](https://bernhard-baerh.de/pdp8e/quickstart.html).
 #### Altair
 As of now there are no guides on how to install the Altair8800 emulator.
 #### Apple
 * Apple I
+
 Download it from [sourceforge](pom1.sourceforge.net/?page=downloads), and then run it.
 Alternatively, Arch Linux users can use the following [AUR Package](https://aur.archlinux.org/packages/pom1/).
 * Apple II 
+
 Follow the compiling guide [here](https://github.com/AppleWin/AppleWin/blob/master/docs/compiling.txt).
 #### Commodore
 Download VICE from the [official website](https://vice-emu.sourceforge.io/index.html/#download).
