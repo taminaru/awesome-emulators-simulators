@@ -38,11 +38,7 @@ Awesome Emulators & Simulators
 
 ## PCs
 ### DOS
-<<<<<<< HEAD
-* [DOSBox](https://www.dosbox.com/) - DOS-emulator that uses the SDL-library. [Source](http://source.dosbox.com/dosboxsvn.tgz)
-=======
 * [DOSBox-x](https://dosbox-x.com) - Fork of the DOSBox DOS emulator with better documentation and more features. [Source](https://github.com/joncampbell123/dosbox-x).
->>>>>>> 2e3880d4ebf1e1b01b0ba3d34b70e15f34aeb7e0
 ### Digital Equipment
 * [PDP-8/E](http://www.bernhard-baehr.de/pdp8e/pdp8e.html) - A simulator for the Digital Equipment PDP-8/E minicomputer. [Download](http://www.bernhard-baehr.de/pdp8e/resources/pdp8e_simulator_2.0.2.dmg) 
 ### Altair
