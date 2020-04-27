@@ -28,8 +28,19 @@ A curated list of software emulators and simulators of PCs, home computers, main
 - [Additional information](#additional-information)
 - [Installation](#installation)
     - [PCs](#pcs-1)
+        - [DOS](#dos-1)
+        - [Digital Equipment](#digital-equipment-1)
+        - [Altair](#altair-1)
+        - [Apple](#apple-1)
     - [Mainframes](#mainframes-1)
+        - [EDSAC](#edsac-1)
+        - [Hercules](#hercules-1)
+        - [ASM](#asm-1)
     - [Consoles](#consoles-1)
+        - [Nintendo](#nintendo-1)
+        - [Sony](#sony-1)
+        - [Microsoft](#microsoft-1)
+        - [Sega](#sega-1)
     - [CPUs](#cpus-1)
     - [Robotics](#robotics-1)
     - [Multi-emulators](#multi-emulators)
@@ -123,13 +134,13 @@ A lot of additional information can be found in here:
 
 ## Installation
 ### PCs
-#### DOS
+##### DOS
 Read the DOSBox-x guide from the [github page](https://github.com/joncampbell123/dosbox-x)'s README.
-#### Digital Equipment
+##### Digital Equipment
 Follow the guide [here](https://bernhard-baerh.de/pdp8e/quickstart20.html).
-#### Altair
+##### Altair
 As of now there are no guides on how to install the Altair8800 emulator.
-#### Apple
+##### Apple
 * Apple I
 
 Download it from [sourceforge](pom1.sourceforge.net/?page=downloads), and then run it.
@@ -137,34 +148,34 @@ Alternatively, Arch Linux users can use the following [AUR Package](https://aur.
 * Apple II 
 
 Follow the compiling guide [here](https://github.com/AppleWin/AppleWin/blob/master/docs/compiling.txt).
-#### Commodore
+##### Commodore
 Download VICE from the [official website](https://vice-emu.sourceforge.io/index.html/#download).
-#### Mainframes
-### EDSAC
+### Mainframes
+##### EDSAC
 
-### Hercules
+##### Hercules
 
-### ASM
-#### Consoles
-### Nintendo
+##### ASM
 
-### Sony
+### Consoles
+##### Nintendo
 
-### Microsoft
+##### Sony
 
-### Sega
+##### Microsoft
 
-### Atari
+##### Sega
 
-#### Multi-emulators
+##### Atari
+
+##### Multi-emulators
 ### CPUs
 
-#### Networks
+### Networks
 
-#### Internet of Things
+### Internet of Things
 
-#### Various
-
+### Various
 
 ## Contributing
 Feel free to contribute or improve this repository as you please, any help is appreciated!
