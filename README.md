@@ -47,6 +47,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 ### Apple
 [**Apple I**](https://pom1.sourceforge.net/) - Apple I emulator. 
 * [Source](https://sourceforge.net/p/pom1/code/HEAD/tree/trunk/)
+
 [**Apple II**](https://github.com/AppleWin/AppleWin/) - Apple II emulator.
 * [Source](https://github.com/AppleWin/AppleWin/)
 
@@ -72,24 +73,32 @@ A curated list of software emulators and simulators of PCs, home computers, main
 ### Nintendo
 [**FCEUX**](https://fceux.com) - NES, Famicom and Famicom Disk System emulator. 
 *
+
 [**Snes9x**](https://snes9x.com) - Portable SNES emulator.
 *
+
 [**ZSNES**](https://zsnes.com) - SNES emulator written mostly in x86 assembly.
 *
+
 [**Mupen64**](https://mupen64plus.org) - N64 emulator and plugins. 
 * [Source](https://github.com/mupen64plus)
+
 [**Dolphin**](https://dolphin-emu.org) - Nintendo Wii and Gamecube emulator. 
 * [Source](https://github.com/dolphin-emu/dolphin/)
+
 [**DeSmuME**](https://desmume.org) - Nintendo DS emulator.
 *
+
 [**Citra**](https://citra-emu.org) - Experimental Nintendo 3DS emulator. 
 * [Source](https://github.com/citra-emu/citra)
 
 ### Sony
 [**PCSX2**](https://pcsx2.net/)  - Playstation 2 emulator. 
 * [Source](https://github.com/PCSX2/pcsx2)
+
 [**PPSSPP**](https://ppsspp.org) - Playstation Portable emulator. 
 * [Source](https://github.com/hrydgard/ppsspp)
+
 [**RPCS3**](https://rpcs3.net)   - Playstation 3 emulator. 
 * [Source](https://github.com/rpcs3/rpcs3)
 
