@@ -139,31 +139,31 @@ Alternatively, Arch Linux users can use the following [AUR Package](https://aur.
 Follow the compiling guide [here](https://github.com/AppleWin/AppleWin/blob/master/docs/compiling.txt).
 #### Commodore
 Download VICE from the [official website](https://vice-emu.sourceforge.io/index.html/#download).
-### Mainframes
-#### EDSAC
+#### Mainframes
+### EDSAC
 
-#### Hercules
+### Hercules
 
-#### ASM
-### Consoles
-#### Nintendo
+### ASM
+#### Consoles
+### Nintendo
 
-#### Sony
+### Sony
 
-#### Microsoft
+### Microsoft
 
-#### Sega
+### Sega
 
-#### Atari
+### Atari
 
 #### Multi-emulators
 ### CPUs
 
-### Networks
+#### Networks
 
-### Internet of Things
+#### Internet of Things
 
-### Various
+#### Various
 
 
 ## Contributing
