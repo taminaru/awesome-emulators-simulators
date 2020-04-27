@@ -28,11 +28,14 @@ A curated list of software emulators and simulators of PCs, home computers, main
 - [Additional information](#additional-information)
 - [Installation](#installation)
     - [PCs](#pcs1)
-    - [DOS](#dos1)
-    - [Digital Equipment](#digital-equipment-1)
-    - [Altair](#altair-1)
-    - [Apple](#apple-1)
-    - [Commodore](#commodore-1)
+    - [Mainframes](#mainframes-1)
+    - [Consoles](#consoles-1)
+    - [CPUs](#cpus-1)
+    - [Robotics](#robotics-1)
+    - [Multi-emulators](#multi-emulators)
+    - [Internet of Things](#internet-of-things-1)
+    - [Networks](#networks-1)
+    - [Various](#various-1)
 - [Contributing](#contributing)
 
 ## PCs
@@ -129,7 +132,6 @@ As of now there are no guides on how to install the Altair8800 emulator.
 #### Apple
 * Apple I
 
-
 Download it from [sourceforge](pom1.sourceforge.net/?page=downloads), and then run it.
 Alternatively, Arch Linux users can use the following [AUR Package](https://aur.archlinux.org/packages/pom1/).
 * Apple II 
@@ -137,6 +139,32 @@ Alternatively, Arch Linux users can use the following [AUR Package](https://aur.
 Follow the compiling guide [here](https://github.com/AppleWin/AppleWin/blob/master/docs/compiling.txt).
 #### Commodore
 Download VICE from the [official website](https://vice-emu.sourceforge.io/index.html/#download).
+### Mainframes
+#### EDSAC
+
+#### Hercules
+
+#### ASM
+### Consoles
+#### Nintendo
+
+#### Sony
+
+#### Microsoft
+
+#### Sega
+
+#### Atari
+
+#### Multi-emulators
+### CPUs
+
+### Networks
+
+### Internet of Things
+
+### Various
+
 
 ## Contributing
 Feel free to contribute or improve this repository as you please, any help is appreciated!
