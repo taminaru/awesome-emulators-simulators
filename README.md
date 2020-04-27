@@ -27,7 +27,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 - [Various](#various)
 - [Additional information](#additional-information)
 - [Installation](#installation)
-    - [PCs](#pcs1)
+    - [PCs](#pcs-1)
     - [Mainframes](#mainframes-1)
     - [Consoles](#consoles-1)
     - [CPUs](#cpus-1)
