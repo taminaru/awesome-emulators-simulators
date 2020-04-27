@@ -129,6 +129,7 @@ As of now there are no guides on how to install the Altair8800 emulator.
 #### Apple
 * Apple I
 
+
 Download it from [sourceforge](pom1.sourceforge.net/?page=downloads), and then run it.
 Alternatively, Arch Linux users can use the following [AUR Package](https://aur.archlinux.org/packages/pom1/).
 * Apple II 
