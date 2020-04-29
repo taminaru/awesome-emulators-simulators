@@ -52,7 +52,8 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Source](https://github.com/AppleWin/AppleWin/)
 
 ### Commodore
-[**VICE**](https://vice-emu.sourceforge.net/) - VersatIle Commodore Emulator is a cross platform emulator for Commodore's 8-bit computers. [SourceForge](https://sourceforge.net/p/vice-emu/code/HEAD/tree/)
+[**VICE**](https://vice-emu.sourceforge.net/) - VersatIle Commodore Emulator is a cross platform emulator for Commodore's 8-bit computers. 
+* [Source](https://sourceforge.net/p/vice-emu/code/HEAD/tree/)
 
 [**UAE**](https://fs-uae.net/) - The UAE Amiga Emulator. 
 * [Source](https://github.com/frodesolheim/fs-uae)
@@ -105,6 +106,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 ### Microsoft
 [**xqemu**](https://xqemu.com)                      - Original Xbox emulator.
 * [Source](https://github.com/xqemu/xqemu)
+
 [**xenia**](https://github.com/xenia-project/xenia) - Xbox 360 emulator.  
 * [Source](https://github.com/xenia-project/xenia)
 
@@ -114,20 +116,25 @@ A curated list of software emulators and simulators of PCs, home computers, main
 ### Atari
 [**stella**](https://stela.emu.github.io)   - Atari 2600 VCS emulator.
 * [Source](https://github.com/stella-emu/stella)
+
 [**atari800**](https://atari800.github.io) - Atari 8-bit computer lines and 5200 console emulator. 
 * [Source](https://github.com/atari800/atari800)
 
 ### Multi-emulators
 [**RetroArch**](https://libretro.com/) - An all-in-one emulator that is able to run games from pretty much every retro console out there. 
 * [Source](https://github.com/libretro/RetroArch)
+
 [**OpenEmu**](https://openemu.org) - Partially based off of Retroarch but providing a mac-like experience. 
 * [Source](https://github.com/OpenEmu/OpenEmu)
+
 [**MAME**](https://mamedev.org) - Multi-arcade machine emulator.
 
 ## CPUs
 [**ARM-js**](https://biged.github.io/arm-js/arm-js.html) - ARM emulator in javascript. 
 * [Source](https://github.com/ozaki-r/arm-js)
+
 [**Intel 4004**](https://e4004.szyc.org) - Intel 4004 emulator with assembler and disassembler.
+
 [**Unicorn**](https://www.unicorn-engine.org) - Lightweight multi-platform, multi-architecture CPU emulator framework.
 * [Sources](https://github.com/unicorn-engine/unicorn) 
 
