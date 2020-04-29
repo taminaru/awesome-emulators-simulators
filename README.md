@@ -80,7 +80,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 [**ZSNES**](https://zsnes.com) - SNES emulator written mostly in x86 assembly.
 *
 
-[**Mupen64**](https://mupen64plus.org) - N64 emulator and plugins. 
+[**Mupen64**](https://mupen64plus.org) - N64 emulator and plugins 
 * [Source](https://github.com/mupen64plus)
 
 [**Dolphin**](https://dolphin-emu.org) - Nintendo Wii and Gamecube emulator. 
@@ -103,25 +103,33 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Source](https://github.com/rpcs3/rpcs3)
 
 ### Microsoft
-[xqemu](https://xqemu.com)                      - Original Xbox emulator. [Github](https://github.com/xqemu/xqemu)
-[xenia](https://github.com/xenia-project/xenia) - Xbox 360 emulator.  
+[**xqemu**](https://xqemu.com)                      - Original Xbox emulator.
+* [Source](https://github.com/xqemu/xqemu)
+[**xenia**](https://github.com/xenia-project/xenia) - Xbox 360 emulator.  
+* [Source](https://github.com/xenia-project/xenia)
 
 ### Sega
-[Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) - Sega Genesis/Megadrive emulator with high accuracy. Runs on modest hardware.
+[**Genesis-Plus-GX**](https://github.com/ekeeke/Genesis-Plus-GX) - Sega Genesis/Megadrive emulator with high accuracy. Runs on modest hardware.
 
 ### Atari
-[stella](https://stela.emu.github.io)   - Atari 2600 VCS emulator. [Github](https://github.com/stella-emu/stella)
-[atari800](https://atari800.github.io) - Atari 8-bit computer lines and 5200 console emulator. [Github](https://github.com/atari800/atari800)
+[**stella**](https://stela.emu.github.io)   - Atari 2600 VCS emulator.
+* [Source](https://github.com/stella-emu/stella)
+[**atari800**](https://atari800.github.io) - Atari 8-bit computer lines and 5200 console emulator. 
+* [Source](https://github.com/atari800/atari800)
 
 ### Multi-emulators
-[RetroArch](https://libretro.com/) - An all-in-one emulator that is able to run games from pretty much every retro console out there. [Github](https://github.com/libretro/RetroArch)
-[OpenEmu](https://openemu.org) - Partially based off of Retroarch but providing a mac-like experience. [Github](https://github.com/OpenEmu/OpenEmu)
-[MAME](https://mamedev.org) - Multi-arcade machine emulator.
+[**RetroArch**](https://libretro.com/) - An all-in-one emulator that is able to run games from pretty much every retro console out there. 
+* [Source](https://github.com/libretro/RetroArch)
+[**OpenEmu**](https://openemu.org) - Partially based off of Retroarch but providing a mac-like experience. 
+* [Source](https://github.com/OpenEmu/OpenEmu)
+[**MAME**](https://mamedev.org) - Multi-arcade machine emulator.
 
 ## CPUs
-* [ARM-js](https://biged.github.io/arm-js/arm-js.html) - ARM emulator in javascript. [GitHub](https://github.com/ozaki-r/arm-js)
-* [Intel 4004](https://e4004.szyc.org) - Intel 4004 emulator with assembler and disassembler.
-* [Unicorn](https://www.unicorn-engine.org) - Lightweight multi-platform, multi-architecture CPU emulator framework. [GitHub](https://github.com/unicorn-engine/unicorn) 
+[**ARM-js**](https://biged.github.io/arm-js/arm-js.html) - ARM emulator in javascript. 
+* [Source](https://github.com/ozaki-r/arm-js)
+[**Intel 4004**](https://e4004.szyc.org) - Intel 4004 emulator with assembler and disassembler.
+[**Unicorn**](https://www.unicorn-engine.org) - Lightweight multi-platform, multi-architecture CPU emulator framework.
+* [Sources](https://github.com/unicorn-engine/unicorn) 
 
 ## OSes
 ### Linux based
@@ -141,15 +149,18 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [AWS IoT device simulator](https://aws.amazon.com/answers/iot/iot-device-simulator) - IoT device simulator in AWS.
 
 ## Networks
-* [Cloonix](http://clownix.net/) - Network simulator, provides a relatively easy-to-use graphical user interface. [GitHub](https://github.com/clownix/cloonix)
+[Cloonix](http://clownix.net/) - Network simulator, provides a relatively easy-to-use graphical user interface.
+* [Source](https://github.com/clownix/cloonix)
 
 ## Various
-* [Cardpunch](https://www.kloth.net/services/cardpunch.php) - Cardpunch emulator to create a PNG/JPEG image of a punched card.
-* [Enigma Machine Emulator](https://enigma.louisedade.co.uk) - Emulating Navy M3 and M4 Enigma Machines. [Source code](http://enigma.louisedade.co.uk/jssource.html)
-* [MovSim](https://www.movsim.org) - Multi-model open-source vehicular-traffic simulator. [GitHub](https://github.com/movsim/movsim)
-* [Traffic Simulator](https://www.traffic-simulation.de) - Traffic simulator in HTML. [GitHub](https://github.com/movsim/traffic-simulation-de)
-* [Turing Machine Simulator](https://morphett.info/turing/turing.html) - Turing machine simulator. [GitHub](https://github.com/awmorp/jsturing)
-* [Virtual Apollo Guidance Computer](https://www.ibiblio.org/apollo) - Apollo Guidance Computer simulator. [GitHub](https://github.com/virtualagc/virtualagc)
+[MovSim](https://www.movsim.org) - Multi-model open-source vehicular-traffic simulator. 
+* [Source](https://github.com/movsim/movsim)
+[Traffic Simulator](https://www.traffic-simulation.de) - Traffic simulator in HTML. 
+* [Source](https://github.com/movsim/traffic-simulation-de)
+[Turing Machine Simulator](https://morphett.info/turing/turing.html) - Turing machine simulator.
+* [Source](https://github.com/awmorp/jsturing)
+[Virtual Apollo Guidance Computer](https://www.ibiblio.org/apollo) - Apollo Guidance Computer simulator.
+* [Source](https://github.com/virtualagc/virtualagc)
 
 ## Additional information 
 A lot of additional information can be found in here:
