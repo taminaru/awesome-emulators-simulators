@@ -72,14 +72,14 @@ A curated list of software emulators and simulators of PCs, home computers, main
 
 ## Consoles
 ### Nintendo
-[**FCEUX**](https://fceux.com) - NES, Famicom and Famicom Disk System emulator. 
-*
+[**FCEUX**](https://fceux.com/web/home.html) - NES, Famicom and Famicom Disk System emulator. 
+* [Download](https://fceux.com/web/download.html)
 
 [**Snes9x**](https://snes9x.com) - Portable SNES emulator.
-*
+* [Download](https://snes9x.com/downloads.php)
 
 [**ZSNES**](https://zsnes.com) - SNES emulator written mostly in x86 assembly.
-*
+* [Source](https://sourceforge.net/projects/zsnes)
 
 [**Mupen64**](https://mupen64plus.org) - N64 emulator and plugins 
 * [Source](https://github.com/mupen64plus)
@@ -88,7 +88,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Source](https://github.com/dolphin-emu/dolphin/)
 
 [**DeSmuME**](https://desmume.org) - Nintendo DS emulator.
-*
+* [Download](http://desmume.org/download)
 
 [**Citra**](https://citra-emu.org) - Experimental Nintendo 3DS emulator. 
 * [Source](https://github.com/citra-emu/citra)
@@ -128,6 +128,10 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Source](https://github.com/OpenEmu/OpenEmu)
 
 [**MAME**](https://mamedev.org) - Multi-arcade machine emulator.
+
+[**Mednafen**](https://mednafen.github.io) - 
+* [Download](https://mednafen.github.io/releases)
+* [Source](https://mednafen.github.io/releases)
 
 ## CPUs
 [**ARM-js**](https://biged.github.io/arm-js/arm-js.html) - ARM emulator in javascript. 
