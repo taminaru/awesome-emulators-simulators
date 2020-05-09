@@ -129,7 +129,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 
 [**MAME**](https://mamedev.org) - Multi-arcade machine emulator.
 
-[**Mednafen**](https://mednafen.github.io) - 
+[**Mednafen**](https://mednafen.github.io) - A portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.
 * [Download](https://mednafen.github.io/releases)
 * [Source](https://mednafen.github.io/releases)
 
