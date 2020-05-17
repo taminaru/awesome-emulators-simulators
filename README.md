@@ -84,6 +84,10 @@ A curated list of software emulators and simulators of PCs, home computers, main
 [**Mupen64**](https://mupen64plus.org) - N64 emulator and plugins 
 * [Source](https://github.com/mupen64plus)
 
+[**Visual Boy Advance**](https://sourceforge.net/projects/vba) - Well-known GBA Emulator with great stability.
+* [Source](https://sourceforge.net/projects/vba)
+* [Download](https://sourceforge.net/projects/vba)
+
 [**Dolphin**](https://dolphin-emu.org) - Nintendo Wii and Gamecube emulator. 
 * [Source](https://github.com/dolphin-emu/dolphin/)
 
@@ -144,41 +148,64 @@ A curated list of software emulators and simulators of PCs, home computers, main
 
 ## OSes
 ### Linux based
-* [RetroPie](https://retropie.org.uk) - Multi-emulator meant to turn a raspberry pi into a retro-gaming machine. 
-* [Lakka](https://lakka.tv) - A lightweight Linux distribution with the goal of transforming any lower end computer into a full blown retro-gaming console.
-* [Batocera](https://batocera.org) - Linux distribution specialized in retro-gaming that can boot from a live usb without altering the machine's hard drive.
+[**RetroPie**](https://retropie.org.uk) - Multi-emulator meant to turn a raspberry pi into a retro-gaming machine. 
+* [Download](https://retropie.org.uk.download/)
+
+[**Lakka**](https://lakka.tv) - A lightweight Linux distribution with the goal of transforming any lower end computer into a full blown retro-gaming console.
+* [Download](https://lakka.tv/get/) 
+
+[**Batocera**](https://batocera.org) - Linux distribution specialized in retro-gaming that can boot from a live usb without altering the machine's hard drive.
+* [Download](https://batocera.org/download/)
 
 ## Robotics
-* [Gazebo](http://gazebosim.org/) - Simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects. [Bitbucket](https://bitbucket.org/osrf/gazebo)
-* [Robocode](http://robocode.sourceforge.net/) - A programming whith the goal being to develop a robot battle tank to battle against other tanks in Java or .NET. [GitHub](https://github.com/robo-code/robocode)
-* [V-REP](http://www.coppeliarobotics.com/) - Robot simulator, based on a distributed control architecture. [Copellia Robotics web page](http://www.coppeliarobotics.com/downloads.html)|
+[**Gazebo**](http://gazebosim.org/) - Simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects. [Bitbucket](https://bitbucket.org/osrf/gazebo)
+* [Download](http://gazebosim.org/download)
+
+[**Robocode**](http://robocode.sourceforge.net/) - A programming whith the goal being to develop a robot battle tank to battle against other tanks in Java or .NET. [GitHub](https://github.com/robo-code/robocode)
+* [Download](https://sourceforge.net/projects/robocode/files/)
+
+[**V-REP**](http://www.coppeliarobotics.com/) - Robot simulator, based on a distributed control architecture. 
+* [Official Web Page](http://www.coppeliarobotics.com/downloads.html)
+* [Download](http://www.coppeliarobotics.com/downloads.html/downloads/)
+
 
 ## Internet of Things
-* [Arm Mbed OS simulator](https://github.com/janjongboom/mbed-simulator) - Experimental simulator for Mbed OS5 applications. 
-* [Hue-Emulator](https://github.com/SteveyO/Hue-Emulator) - A Bridge Emulator for the Philips Hue. 
-* [Sense HAT](https://trinket.io/sense-hat) - Raspberry Pi Sense HAT emulator to program in Python.
-* [AWS IoT device simulator](https://aws.amazon.com/answers/iot/iot-device-simulator) - IoT device simulator in AWS.
+[**Arm Mbed OS simulator**](https://github.com/janjongboom/mbed-simulator) - Experimental simulator for Mbed OS5 applications. 
+* [Download]()
+
+[**Hue-Emulator**](https://github.com/SteveyO/Hue-Emulator) - A Bridge Emulator for the Philips Hue. 
+* [Download]()
+
+[**Sense HAT**](https://trinket.io/sense-hat) - Raspberry Pi Sense HAT emulator to program in Python.
+* [Download]()
+
+[**AWS IoT device simulator**](https://aws.amazon.com/answers/iot/iot-device-simulator) - IoT device simulator in AWS.
+* [Download]()
+
 
 ## Networks
-[Cloonix](http://clownix.net/) - Network simulator, provides a relatively easy-to-use graphical user interface.
+[**Cloonix**](http://clownix.net/) - Network simulator, provides a relatively easy-to-use graphical user interface.
 * [Source](https://github.com/clownix/cloonix)
 
 ## Various
-[MovSim](https://www.movsim.org) - Multi-model open-source vehicular-traffic simulator. 
+[**MovSim**](https://www.movsim.org) - Multi-model open-source vehicular-traffic simulator. 
 * [Source](https://github.com/movsim/movsim)
-[Traffic Simulator](https://www.traffic-simulation.de) - Traffic simulator in HTML. 
+
+[**Traffic Simulator**](https://www.traffic-simulation.de) - Traffic simulator in HTML. 
 * [Source](https://github.com/movsim/traffic-simulation-de)
-[Turing Machine Simulator](https://morphett.info/turing/turing.html) - Turing machine simulator.
+
+[**Turing Machine Simulator**](https://morphett.info/turing/turing.html) - Turing machine simulator.
 * [Source](https://github.com/awmorp/jsturing)
-[Virtual Apollo Guidance Computer](https://www.ibiblio.org/apollo) - Apollo Guidance Computer simulator.
+
+[**Virtual Apollo Guidance Computer**](https://www.ibiblio.org/apollo) - Apollo Guidance Computer simulator.
 * [Source](https://github.com/virtualagc/virtualagc)
 
 ## Additional information 
 A lot of additional information can be found in here:
-* [Arduino Enigma Machine Simulator](http://arduinoenigma.blogspot.com/)
-* [Preserving Computing's Past: Restoration and Simulation](http://simh.trailing-edge.com/docs/dtjn02pf.pdf)
-* [Punched card codes](http://homepage.cs.uiowa.edu/~jones/cards/codes.html)
-* [The Virtual Life of ENIAC Simulating the Operation of the First Electronic Computer](http://zuse-z1.zib.de/simulations/eniac/doc/virtualENIAC.pdf)
+- [Arduino Enigma Machine Simulator](http://arduinoenigma.blogspot.com/)
+- [Preserving Computing's Past: Restoration and Simulation](http://simh.trailing-edge.com/docs/dtjn02pf.pdf)
+- [Punched card codes](http://homepage.cs.uiowa.edu/~jones/cards/codes.html)
+- [The Virtual Life of ENIAC Simulating the Operation of the First Electronic Computer](http://zuse-z1.zib.de/simulations/eniac/doc/virtualENIAC.pdf)
 
 ## Why I forked the original project
 This repository is a fork of [mcicolella / awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators).
