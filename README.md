@@ -89,27 +89,34 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Download](https://sourceforge.net/projects/vba)
 
 [**Dolphin**](https://dolphin-emu.org) - Nintendo Wii and Gamecube emulator. 
-* [Source](https://github.com/dolphin-emu/dolphin/)
+* [Source](https://github.com/dolphin-emu/dolphin)
+* [Download](https://dolphin-emu.org)
 
 [**DeSmuME**](https://desmume.org) - Nintendo DS emulator.
+* [Source](https://sourceforge.net/projects/desmume/files/desmume)
 * [Download](http://desmume.org/download)
 
 [**Citra**](https://citra-emu.org) - Experimental Nintendo 3DS emulator. 
 * [Source](https://github.com/citra-emu/citra)
+* [Download](https://citra-emu.org/download)
 
 ### Sony
 [**PCSX2**](https://pcsx2.net/)  - Playstation 2 emulator. 
 * [Source](https://github.com/PCSX2/pcsx2)
+* [Download](https://pcsx2.net/download.html)
 
 [**PPSSPP**](https://ppsspp.org) - Playstation Portable emulator. 
 * [Source](https://github.com/hrydgard/ppsspp)
+* [Downloads](https://ppsspp.org/downloads.html)
 
 [**RPCS3**](https://rpcs3.net)   - Playstation 3 emulator. 
 * [Source](https://github.com/rpcs3/rpcs3)
+* [Download](https://rpcs3.net/download)
 
 ### Microsoft
 [**xqemu**](https://xqemu.com)                      - Original Xbox emulator.
 * [Source](https://github.com/xqemu/xqemu)
+* [Download](https://xqemu.com/getting-started)
 
 [**xenia**](https://github.com/xenia-project/xenia) - Xbox 360 emulator.  
 * [Source](https://github.com/xenia-project/xenia)
@@ -127,11 +134,15 @@ A curated list of software emulators and simulators of PCs, home computers, main
 ### Multi-emulators
 [**RetroArch**](https://libretro.com/) - An all-in-one emulator that is able to run games from pretty much every retro console out there. 
 * [Source](https://github.com/libretro/RetroArch)
+* [Download](https://retroarch.com/?page=platforms)
 
 [**OpenEmu**](https://openemu.org) - Partially based off of Retroarch but providing a mac-like experience. 
 * [Source](https://github.com/OpenEmu/OpenEmu)
+* [Download](https://github.com/OpenEmu/OpenEmu)
 
 [**MAME**](https://mamedev.org) - Multi-arcade machine emulator.
+* [Source](https://github.com/mamedev/mame)
+* [Download](https://mamedev.org/release.html)
 
 [**Mednafen**](https://mednafen.github.io) - A portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.
 * [Download](https://mednafen.github.io/releases)
@@ -165,9 +176,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Download](https://sourceforge.net/projects/robocode/files/)
 
 [**V-REP**](http://www.coppeliarobotics.com/) - Robot simulator, based on a distributed control architecture. 
-* [Official Web Page](http://www.coppeliarobotics.com/downloads.html)
 * [Download](http://www.coppeliarobotics.com/downloads.html/downloads/)
-
 
 ## Internet of Things
 [**Arm Mbed OS simulator**](https://github.com/janjongboom/mbed-simulator) - Experimental simulator for Mbed OS5 applications. 
@@ -181,7 +190,6 @@ A curated list of software emulators and simulators of PCs, home computers, main
 
 [**AWS IoT device simulator**](https://aws.amazon.com/answers/iot/iot-device-simulator) - IoT device simulator in AWS.
 * [Download]()
-
 
 ## Networks
 [**Cloonix**](http://clownix.net/) - Network simulator, provides a relatively easy-to-use graphical user interface.
