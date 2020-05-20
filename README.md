@@ -196,7 +196,12 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Source](https://github.com/clownix/cloonix)
 
 ## Various
-[**MovSim**](https://www.movsim.org) - Multi-model open-source vehicular-traffic simulator. 
+[**J2ME Loader**](https://github.com/nikita36078/J2ME-Loader) — J2ME emulator for Android.
+* [Source](https://github.com/nikita36078/J2ME-Loader)
+* [F-Droid](https://f-droid.org/app/ru.playsoftware.j2meloader)
+* [Play Store](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader)
+
+[**MovSim**](https://www.movsim.org) — Multi-model open-source vehicular-traffic simulator. 
 * [Source](https://github.com/movsim/movsim)
 
 [**Traffic Simulator**](https://www.traffic-simulation.de) - Traffic simulator in HTML. 
