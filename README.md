@@ -25,7 +25,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 - [**Robotics**](#robotics)
 - [**Internet of Things**](#internet-of-things)
 - [**Networks**](#networks)
-- [**Various**](#various)
+- [**Miscellaneous**](#miscellaneous)
 - [**Additional information**](#additional-information)
 - [**Why I forked the original project**](#why-i-forked-the-original-project)
 - [**Contributing**](#contributing)
@@ -195,7 +195,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 [**Cloonix**](http://clownix.net/) - Network simulator, provides a relatively easy-to-use graphical user interface.
 * [Source](https://github.com/clownix/cloonix)
 
-## Various
+## Miscellaneous
 [**J2ME Loader**](https://github.com/nikita36078/J2ME-Loader) — J2ME emulator for Android.
 * [Source](https://github.com/nikita36078/J2ME-Loader)
 * [F-Droid](https://f-droid.org/app/ru.playsoftware.j2meloader)
