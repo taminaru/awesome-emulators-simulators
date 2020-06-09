@@ -123,6 +123,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 
 ### Sega
 [**Genesis-Plus-GX**](https://github.com/ekeeke/Genesis-Plus-GX) - Sega Genesis/Megadrive emulator with high accuracy. Runs on modest hardware.
+* [Source](https://github.com/ekeeke/Genesis-Plus-GX)
 
 ### Atari
 [**stella**](https://stela.emu.github.io)   - Atari 2600 VCS emulator.
@@ -145,8 +146,8 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Download](https://mamedev.org/release.html)
 
 [**Mednafen**](https://mednafen.github.io) - A portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.
-* [Download](https://mednafen.github.io/releases)
 * [Source](https://mednafen.github.io/releases)
+* [Download](https://mednafen.github.io/releases)
 
 ## CPUs
 [**ARM-js**](https://biged.github.io/arm-js/arm-js.html) - ARM emulator in javascript. 
@@ -155,7 +156,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 [**Intel 4004**](https://e4004.szyc.org) - Intel 4004 emulator with assembler and disassembler.
 
 [**Unicorn**](https://www.unicorn-engine.org) - Lightweight multi-platform, multi-architecture CPU emulator framework.
-* [Sources](https://github.com/unicorn-engine/unicorn) 
+* [Source](https://github.com/unicorn-engine/unicorn) 
 
 ## OSes
 ### Linux based
@@ -169,10 +170,12 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Download](https://batocera.org/download/)
 
 ## Robotics
-[**Gazebo**](http://gazebosim.org/) - Simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects. [Bitbucket](https://bitbucket.org/osrf/gazebo)
+[**Gazebo**](http://gazebosim.org/) - Simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects. 
+* [Source](https://bitbucket.org/osrf/gazebo)
 * [Download](http://gazebosim.org/download)
 
-[**Robocode**](http://robocode.sourceforge.net/) - A programming whith the goal being to develop a robot battle tank to battle against other tanks in Java or .NET. [GitHub](https://github.com/robo-code/robocode)
+[**Robocode**](http://robocode.sourceforge.net/) - A programming whith the goal being to develop a robot battle tank to battle against other tanks in Java or .NET.
+* [Source](https://github.com/robo-code/robocode)
 * [Download](https://sourceforge.net/projects/robocode/files/)
 
 [**V-REP**](http://www.coppeliarobotics.com/) - Robot simulator, based on a distributed control architecture. 
