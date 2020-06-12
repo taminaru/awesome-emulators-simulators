@@ -113,6 +113,9 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Source](https://github.com/rpcs3/rpcs3)
 * [Download](https://rpcs3.net/download)
 
+[**GPCS4**](https://github.com/Inori/GPCS4) - In the works PS4 emulator.
+* [Source](https://github.com/Inori/GPCS4)
+
 ### Microsoft
 [**xqemu**](https://xqemu.com)                      - Original Xbox emulator.
 * [Source](https://github.com/xqemu/xqemu)
