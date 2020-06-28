@@ -59,6 +59,10 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Source](https://github.com/frodesolheim/fs-uae)
 * [Download](https://fs-uae.net/download)
 
+[**Scripted Amiga Emulator**](https://github.com/naTmeg/ScriptedAmigaEmulator) - Amiga emulator in JavaScript and HTML5.
+* [Source](https://github.com/naTmeg/ScriptedAmigaEmulator)
+* [Run](http://scriptedamigaemulator.net)
+
 ## Mainframes
 ### EDSAC
 [**EDSAC Replica Project**](http://tnmoc.org/edsac) - EDSAC simulator.
