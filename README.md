@@ -223,6 +223,11 @@ A curated list of software emulators and simulators of PCs, home computers, main
 [**Virtual Apollo Guidance Computer**](https://www.ibiblio.org/apollo) - Apollo Guidance Computer simulator.
 * [Source](https://github.com/virtualagc/virtualagc)
 
+[**2009scape**](https://2009scape.org) - Open Source 2009-era Runescape Emulator/Remake.
+* [Source](https://github.com/2009scape/2009Scape)
+* [Download](https://github.com/2009scape/2009Scape/releases/latest/download/2009Scape.jar)
+
+
 ## Additional information 
 A lot of additional information can be found in here:
 - [Arduino Enigma Machine Simulator](http://arduinoenigma.blogspot.com/)
