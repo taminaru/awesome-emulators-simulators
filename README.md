@@ -105,8 +105,8 @@ A curated list of software emulators and simulators of PCs, home computers, main
 * [Download](https://citra-emu.org/download)
 
 [**Yuzu**](https://yuzu-emu.org) — Experimental Nintendo Switch emulator.
-[Source](https:github.com/yuzu-emu/yuzu)
-[Download](https://yuzu-emu.org/downloads)
+* [Source](https:github.com/yuzu-emu/yuzu)
+* [Download](https://yuzu-emu.org/downloads)
 
 ### Sony
 [**PCSX2**](https://pcsx2.net/) — Playstation 2 emulator. 
