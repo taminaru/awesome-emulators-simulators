@@ -115,7 +115,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 
 [**PPSSPP**](https://ppsspp.org) — Playstation Portable emulator. 
 * [Source](https://github.com/hrydgard/ppsspp)
-* [Downloads](https://ppsspp.org/downloads.html)
+* [Download](https://ppsspp.org/downloads.html)
 
 [**RPCS3**](https://rpcs3.net) — Playstation 3 emulator. 
 * [Source](https://github.com/rpcs3/rpcs3)
