@@ -218,7 +218,7 @@ A curated list of software emulators and simulators of PCs, home computers, main
 [**MovSim**](https://www.movsim.org) —  Multi-model open-source vehicular-traffic simulator. 
 * [Source](https://github.com/movsim/movsim)
 
-[**mymc+**](https://github.com/thestr4ng3r/mymcplus) - PlayStation 2 memory card manager.
+[**mymc+**](https://github.com/thestr4ng3r/mymcplus) &mdash; PlayStation 2 memory card manager.
 * [Source](https://github.com/thestr4ng3r/mymcplus)
 * [Download](https://github.com/thestr4ng3r/mymcplus/releases/latest)
 
